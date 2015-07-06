@@ -13,6 +13,7 @@ int main()
 
 	//Este es un programa que realiza las operaciones de suma, resta, multiplicacion y division.
 	cont=1;
+	cout<<"lol";
 	cout<< "Signos para las operaciones:\n";
 	cout<<"1. Suma '+'\n";
 	cout<<"2. Resta '-'\n";
